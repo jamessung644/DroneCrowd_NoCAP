@@ -1,5 +1,0 @@
-spatial-correlation-sampler
-sklearn
-h5py
-opencv-python
-matplotlib
